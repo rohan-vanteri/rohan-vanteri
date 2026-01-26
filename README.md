@@ -14,9 +14,18 @@ My name is **Rohan Vanteri**. I’m a **freshman at Arizona State University** w
   - Implemented the algorithm in **[EditCalculateAndChart](https://github.com/mathhobbit/EditCalculateAndChart?tab=readme-ov-file)** inside **[Matrix.java](https://github.com/mathhobbit/EditCalculateAndChart/blob/master/src/org/ioblako/math/linearalgebra/Matrix.java)**
   - Now working to design and create a neural network classifier with instantaneous learning abilities (Spring 2026)
 
+- MELius
+  - Recruited a 4-member team to develop a [basic self-improvement app](https://github.com/rohan-vanteri/MElius) using Swift
+  - Implemented features to track user progress and display visual streak indicators
+
+
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](https://www.linkedin.com/in/rohan-vanteri-9a7863202/)
+[LinkedIn](https://www.linkedin.com/in/rohan-vanteri-9a7863202/) 
+
+[Email](mailto:vanterir@gmail.com)
+
+
 
 
 
