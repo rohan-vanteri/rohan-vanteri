@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Rohan Vanteri**. I’m a **freshman at Arizona State University** with a passion for **Computer Science**, and an interest in **AI**. I am currenty seeking an internship for summer 2025. Feel free to reach out/connect!
+My name is **Rohan Vanteri**. I’m a **freshman at Arizona State University** with a passion for **Computer Science**, and an interest in **AI**. I am currenty seeking an internship for summer 2026. Feel free to reach out/connect!
 
 ---
 
